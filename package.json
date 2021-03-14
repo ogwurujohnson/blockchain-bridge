@@ -1,0 +1,13 @@
+{
+  "name": "eth-bsc-bridge",
+  "version": "0.0.1",
+  "description": "Bridge ETH to BSC",
+  "main": "index.js",
+  "author": "Johnson Ogwuru <ogwurujohnson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.3",
+    "global": "^4.4.0",
+    "truffle": "^5.2.4"
+  }
+}
